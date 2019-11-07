@@ -11,7 +11,7 @@
     "date_due_warn": "",
     "showCaseReference": false,
     "isSubform": false,
-    "notes": false,
+    "notes": "changed words in introduction",
     "initial_stage": "Stage 1",
     "initial_stage_id": "AF-Stage-578d0f9d-4d20-4b97-abee-28fb627efad2",
     "serverSubmit": true,
@@ -255,7 +255,7 @@
                     "outerClass": "",
                     "width": "",
                     "showInSummary": false,
-                    "content": "<p>Portsmouth City Council Culture, Leisure and Regulatory Services will process your personal information appropriately and legally in accordance with the relevant national legislation. The details you provide will be held in a secure system or database and will only be shared with other organisations where the law allows.</p>\n\n<p>Use this form to order a Christmas tree.</p> \n<p>Trees must be collected from Waterfront Tea Rooms, Avenue De Caen, Portsmouth, PO5 3NS. Delivery services are not available.</p> \n<p>The trees are Nordmann Firs and range from 5ft - 9ft in size - larger trees may be available upon request, please contact <a href=\"mailto:ben.wright@portsmouthcc.gov.uk?Subject=Christmas tree availability\" target=\"_top\">ben.wright@portsmouthcc.gov.uk</a>. Once your order has been received, a member of the team will contact you to arrange payment. Prices range from £35-£55 depending on the size of the tree requested.</p>\n<p>Waterfront Tea Rooms opening hours:</p>\n<table>\n<tbody>\n<tr>\n<td width=30%>Mon:</td> \n<td>Closed</td>\n</tr>\n<tr>\n<td width=30%>Tue:</td> \n<td>Closed</td>\n</tr>\n<tr>\n<td width=30%>Wed:</td> \n<td>Closed</td>\n</tr>\n<tr>\n<td width=30%>Thu:</td> \n<td>12:00 PM to 4:00 PM</td>\n</tr>   \n<tr>\n<td width=30%>Fri:</td> \n<td>12:00 PM to 4:00 PM</td>\n</tr> \n<tr>\n<td width=30%>Sat:</td> \n<td>11:00 AM to 4:00 PM</td>\n</tr> \n <tr>\n<td width=30%>Sun:</td> \n<td>11:00 AM to 4:00 PM</td>\n</tr>\n</tbody>\n</table>",
+                    "content": "<p>Portsmouth City Council Culture, Leisure and Regulatory Services will process your personal information appropriately and legally in accordance with the relevant national legislation. The details you provide will be held in a secure system or database and will only be shared with other organisations where the law allows.</p>\n\n<p>Use this form to order a Christmas tree.</p> \n<p>Trees must be collected from Waterfront Garden Centre, Avenue De Caen, Portsmouth, PO5 3NS. Delivery services are not available.</p> \n<p>The trees are Nordmann Firs and range from 5ft - 9ft in size - larger trees may be available upon request, please contact <a href=\"mailto:ben.wright@portsmouthcc.gov.uk?Subject=Christmas tree availability\" target=\"_top\">ben.wright@portsmouthcc.gov.uk</a>. Once your order has been received, a member of the team will contact you to arrange payment. Prices range from £35-£55 depending on the size of the tree requested.</p>\n<p>Waterfront Tea Rooms opening hours:</p>\n<table>\n<tbody>\n<tr>\n<td width=30%>Mon:</td> \n<td>Closed</td>\n</tr>\n<tr>\n<td width=30%>Tue:</td> \n<td>Closed</td>\n</tr>\n<tr>\n<td width=30%>Wed:</td> \n<td>Closed</td>\n</tr>\n<tr>\n<td width=30%>Thu:</td> \n<td>12:00 PM to 4:00 PM</td>\n</tr>   \n<tr>\n<td width=30%>Fri:</td> \n<td>12:00 PM to 4:00 PM</td>\n</tr> \n<tr>\n<td width=30%>Sat:</td> \n<td>11:00 AM to 4:00 PM</td>\n</tr> \n <tr>\n<td width=30%>Sun:</td> \n<td>11:00 AM to 4:00 PM</td>\n</tr>\n</tbody>\n</table>",
                     "displayCondition": null
                   },
                   "conditionInputs": [],
